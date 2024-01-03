@@ -5,9 +5,29 @@
 
 body {
     background-color: #14131a;
-    overflow: hidden; 
+
+    }
+::-webkit-scrollbar {
+  width: 12px;
+  background: #262c2c;
+  border-radius: 50%;
 }
 
+/* Track */
+::-webkit-scrollbar-track {
+  background: #262c2c; 
+  border-radius: 100px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #151e24; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
 a:link,
 :visited {
     color: white;
