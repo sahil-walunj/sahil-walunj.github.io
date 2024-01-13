@@ -160,7 +160,7 @@ li {
     height: 275px;
     gap: 2rem;
     font-size: 1rem;
-    justify-content: space-around;
+    
 }
 
 .box {
@@ -205,7 +205,7 @@ li {
     gap: 1rem;
 }
 
-.boxes {
+.boxes2 {
     position: relative;
     display: flex;
     flex-direction: row;
