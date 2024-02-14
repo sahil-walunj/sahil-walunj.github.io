@@ -7,8 +7,8 @@
 ## Education
 |Sr | Institute| Education|Year |
 |--|--|--|--|
-|  1 |  **Indian Institute of Technology Goa**  | Bachelor's in Computer Science and Engineering| 2023-curr|
-|  2 |  **Dhruv Global School** | Senior Secondary School| 2021-2023|
+|  1|  **Indian Institute of Technology Goa**  | Bachelor's in Computer Science and Engineering| 2023-curr|
+|  2|  **Dhruv Global School** | Senior Secondary School| 2021-2023|
 |  3|  **Advaita Gurukul**  | Higher Secondary School|2019-2021|
 
 ## Courses@IITGOA
