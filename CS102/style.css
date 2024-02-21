@@ -1,1 +1,94 @@
+body {
+  background-image: url("https://miro.medium.com/v2/resize:fit:1200/1*xMuIOwjliGUPjkzukeWKfw.jpeg");
+}
 
+.aboutme {
+  border: 2pt solid black;
+  margin: 15px;
+  background-color: lightsalmon;
+}
+
+.name {
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+  display: inline;
+  position: relative;
+}
+
+img {
+  position: relative;
+  display: inline;
+  height: 172pt;
+  width: 172pt;
+  left: 60vw;
+}
+
+.paraab {
+  font-family: sans-serif;
+  color: blue;
+}
+
+.edtable {
+
+  background-color: lightblue;
+  padding: 10pt;
+  border-spacing: 5px;
+}
+
+.th1 {
+  text-decoration: underline;
+}
+
+.c1 {
+  text-align: left;
+}
+
+.c2 {
+  text-align: center;
+}
+
+.c3 {
+  text-align: left;
+}
+
+.courses {
+  display: flex;
+  flex-direction: row;
+}
+
+.spring {
+  background-color: green;
+  border: 3pt solid;
+}
+
+a:visted {
+  color: gray;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: pink;
+}
+
+.aut {
+  background-color: green;
+  border: 3pt solid;
+}
+
+.hob {
+  margin: 10px;
+  background-color: pink;
+  padding: 10px;
+}
+.hobpara:hover{
+  color: red;
+  translate: scale(1.5);
+  
+}
