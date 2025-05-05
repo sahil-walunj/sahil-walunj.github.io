@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="14" width="56" height="36" rx="4" fill="#4F46E5"/>
+  <path d="M10 18H28L32 22H54V46H10V18Z" fill="white" fill-opacity="0.8"/>
+  <text x="32" y="40" text-anchor="middle" fill="#4F46E5" font-size="14" font-family="Arial" font-weight="bold">SAHIL</text>
+</svg>
